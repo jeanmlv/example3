@@ -1,9 +1,5 @@
 # example3
 
-Hi Tiffany! Sure. From the ARD side, the workflow is a little different from the Med.ai asset workflow.
+This is how I see the studies when I access the Med.ai repository. Under My Data Access, I can see the different study/data assets that I currently have access to.
 
-For the studies I work with, I receive/access the SDTM and/or ADaM datasets in Domino and use those datasets as the source to build the ARD. I don't create or manage a Med.ai asset for each individual SDTM/ADaM file, so I may need to confirm with the Med.ai/Imaging team how those assets are organized there, whether they are standalone or grouped into projects, and who owns/manages the access.
-
-Once I generate and finalize the ARD, I make it available through Thea.View for the team to access and review. So, from my side, the ARD workflow is basically SDTM/ADaM in Domino → ARD generation → ARD available in Thea.View.
-
-If helpful, I can also check with the team and confirm the Med.ai asset/project structure and ownership for you.
+If we open the request details for a specific asset, we can also see the request history, including who submitted the access request and who approved it. So I think we can use this information to identify the appropriate owner/contact for each access request.
