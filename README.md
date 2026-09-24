@@ -1,10 +1,9 @@
 # example3
 
-Hi team, quick update — I’ve updated the files in SharePoint/ORBIT with the latest information:
+Hi Tiffany! Sure. From the ARD side, the workflow is a little different from the Med.ai asset workflow.
 
-• UNITI-JR (CNTO1275CRD3004): I added the Gap Analysis based on the data we received.
-• UNIFI JR (CNTO1275PUC3001): We received feedback from Renping Zhang, including the metadata documents (aCRF and Define). I reviewed the information and completed the Gap Analysis for the study.
-• STARDUST (CNTO1275CRD3005): We are currently waiting for Raju’s feedback regarding the remaining items.
-• GALAXI (CNTO1959CRD3001): We are currently waiting for feedback from Shuixin Ji regarding the remaining items.
+For the studies I work with, I receive/access the SDTM and/or ADaM datasets in Domino and use those datasets as the source to build the ARD. I don't create or manage a Med.ai asset for each individual SDTM/ADaM file, so I may need to confirm with the Med.ai/Imaging team how those assets are organized there, whether they are standalone or grouped into projects, and who owns/manages the access.
 
-The files are now updated to reflect the current status of these studies.
+Once I generate and finalize the ARD, I make it available through Thea.View for the team to access and review. So, from my side, the ARD workflow is basically SDTM/ADaM in Domino → ARD generation → ARD available in Thea.View.
+
+If helpful, I can also check with the team and confirm the Med.ai asset/project structure and ownership for you.
