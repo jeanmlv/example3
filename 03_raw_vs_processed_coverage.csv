@@ -1,0 +1,9 @@
+﻿study,visit,visit_order,cumulative_distinct_patients_processed,cumulative_distinct_patients_rawdata,patients_at_visit_processed,patients_at_visit_rawdata,technical_recordings_processed,technical_recordings_rawdata,technical_recordings_processed_minus_raw,patients_at_visit_processed_minus_raw,cumulative_distinct_patients_processed_minus_raw
+QUASAR,Screening,1,1342,1339,1342,1339,2675,1428,1247,3,3
+QUASAR,I-12,2,1342,1339,1003,1000,1994,1069,925,3,3
+QUASAR,I-24,3,1342,1339,417,416,826,455,371,1,3
+QUASAR,M-44,4,1343,1340,730,727,1457,832,625,3,3
+QUASAR,M-92,5,1344,1341,487,464,968,538,430,23,3
+QUASAR,M-140,6,1344,1341,395,153,785,182,603,242,3
+QUASAR,M-188,7,1344,1341,326,7,586,8,578,319,3
+QUASAR,M-236,8,1344,1341,58,0,88,0,88,58,3
