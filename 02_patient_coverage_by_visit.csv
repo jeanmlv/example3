@@ -1,0 +1,17 @@
+﻿study,data_type,visit,visit_order,video_file_items,technical_recordings,patients_at_visit,new_patients_at_visit,cumulative_distinct_patients,coverage_definition
+QUASAR,processed,Screening,1,2675,2675,1342,1342,1342,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,processed,I-12,2,1994,1994,1003,0,1342,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,processed,I-24,3,826,826,417,0,1342,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,processed,M-44,4,1457,1457,730,1,1343,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,processed,M-92,5,968,968,487,1,1344,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,processed,M-140,6,785,785,395,0,1344,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,processed,M-188,7,586,586,326,0,1344,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,processed,M-236,8,88,88,58,0,1344,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,rawdata,Screening,1,2770,1428,1339,1339,1339,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,rawdata,I-12,2,2064,1069,1000,0,1339,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,rawdata,I-24,3,863,455,416,0,1339,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,rawdata,M-44,4,1508,832,727,1,1340,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,rawdata,M-92,5,922,538,464,1,1341,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,rawdata,M-140,6,296,182,153,0,1341,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,rawdata,M-188,7,14,8,7,0,1341,distinct site+patient with >=1 video in this or earlier scheduled visit
+QUASAR,rawdata,M-236,8,0,0,0,0,1341,distinct site+patient with >=1 video in this or earlier scheduled visit
