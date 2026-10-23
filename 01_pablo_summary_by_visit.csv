@@ -1,0 +1,16 @@
+﻿study,visit,visit_type,rawdata_file_items,rawdata_technical_recordings_est,rawdata_unique_patients_at_visit,rawdata_exact_cross_source_matched_recordings,rawdata_no_exact_match_recordings,rawdata_cumulative_unique_patients,processed_file_items,processed_technical_recordings_est,processed_unique_patients_at_visit,processed_exact_cross_source_matched_recordings,processed_no_exact_match_recordings,processed_cumulative_unique_patients
+QUASAR,Screening,SCHEDULED,2770,1428,1339,1350,78,1339,2675,2675,1342,1350,1325,1342
+QUASAR,I-12,SCHEDULED,2064,1069,1000,1003,66,1339,1994,1994,1003,1003,991,1342
+QUASAR,I-24,SCHEDULED,863,455,416,417,38,1339,826,826,417,417,409,1342
+QUASAR,M-44,SCHEDULED,1508,832,727,733,99,1340,1457,1457,730,733,724,1343
+QUASAR,M-92,SCHEDULED,922,538,464,452,86,1341,968,968,487,452,516,1344
+QUASAR,M-140,SCHEDULED,296,182,153,142,40,1341,785,785,395,142,643,1344
+QUASAR,M-188,SCHEDULED,14,8,7,7,1,1341,586,586,326,7,579,1344
+QUASAR,M-236,SCHEDULED,0,0,0,0,0,1341,88,88,58,0,88,1344
+QUASAR,Clinical Flare,UNSCHEDULED,452,246,217,218,28,,444,444,225,218,226,
+QUASAR,Clinical Flare 2,UNSCHEDULED,16,9,7,8,1,,16,16,8,8,8,
+QUASAR,Clinical Flare 3,UNSCHEDULED,4,2,2,2,0,,4,4,2,2,2,
+QUASAR,ET-I,UNSCHEDULED,22,12,11,11,1,,21,21,11,11,10,
+QUASAR,ET-M,UNSCHEDULED,74,40,35,36,4,,65,65,37,36,29,
+QUASAR,Final Efficacy,UNSCHEDULED,157,95,81,76,19,,322,321,187,76,245,
+QUASAR,Test,UNSCHEDULED,6,3,3,3,0,,3,3,3,3,0,
